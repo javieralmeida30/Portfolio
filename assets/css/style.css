@@ -761,7 +761,7 @@ textarea.input-field {
 
   :is(.project-card-1, .project-card-2) .card-content { width: 33.33%; }
 
-  :is(.project-card-1, .project-card-2) .card-banner { width: 70.66%; }
+  :is(.project-card-1, .project-card-2) .card-banner { width: 100.66%; }
 
   .project-card-1 .card-content { padding-block-end: var(--padding); }
 
